@@ -1,3 +1,8 @@
+"""
+Write a program to create "BCA.txt" file which contain information about BCA course. 
+count and print the total number of lines starting with ‘A’, ‘B’, and ‘C’ in "intro.txt" file.
+"""
+
 data = """BCA is Bachelor's in Computer Application, which is a 3-year undergraduate degree programme that focuses on 
 knowledge of the basics of computer application and software development. A BCA degree is considered to be at par with a BTech/BE degree in Computer Science or Information Technology. 
 The degree helps interested students in setting up a sound academic base for an advanced career in Computer Applications.
